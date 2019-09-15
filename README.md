@@ -23,7 +23,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+
 [repository settings](https://github.com/fabluc/test01/settings)
+
 [documentation](https://help.github.com/categories/github-pages-basics/)
+
 [contact support](https://github.com/contact)
