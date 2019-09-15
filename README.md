@@ -2,7 +2,7 @@ https://fabluc.github.io/test01/
 
 ## Welcome here
 
-[editor on GitHub](https://github.com/fabluc/test01/edit/master/README.md
+[editor on GitHub](https://github.com/fabluc/test01/edit/master/README.md)
 
 [Jekyll](https://jekyllrb.com/)
 
@@ -19,9 +19,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold**
+_Italic_
+`Code
 
-[Link](url) and ![Image](src)
+[Link](https://vecka.nu/)
+and
+![Image](src)
 ```
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
